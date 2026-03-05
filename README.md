@@ -1,4 +1,4 @@
-# Pratheek Balasubramanyam — Business Analyst Portfolio
+# Pratheek Balasubramanyam - Business Analyst Portfolio
 
 📍 Wales, United Kingdom
 📧 pratheekwork23@gmail.com
@@ -10,7 +10,7 @@
 
 Business Analyst with an MSc in Business Analytics (Distinction) from Swansea University and over 4 years of combined experience in business analysis, financial services and operations. Currently working at Travelex in a regulated financial services environment.
 
-Awarded the **School Prize for Meritorious Performance** — presented to the highest performing student across all MSc Management pathways at Swansea University, December 2024.
+Awarded the **School Prize for Meritorious Performance** presented to the highest performing student across all MSc Management pathways at Swansea University, December 2024.
 
 This portfolio demonstrates practical BA skills across five projects covering SQL data analysis, end-to-end business analysis, Power BI reporting, process mapping and requirements gathering.
 
