@@ -1,6 +1,6 @@
 # Pratheek Balasubramanyam - Business Analyst Portfolio
 
-📍 Wales, United Kingdom
+📍 Wales, United Kingdom (Willing to Relocate)
 📧 pratheekwork23@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/pratheekbb)
 
