@@ -8,9 +8,11 @@
 
 ## About Me
 
-Business Analyst with an MSc in Business Analytics (Distinction) from Swansea University and over 4 years of combined experience in business analysis, financial services and operations. Currently working at Travelex in a regulated financial services environment.
+Business Analyst with an MSc in Business Analytics (Distinction) from Swansea University and over 4 years of combined experience in Agile delivery, requirements gathering, process improvement and stakeholder engagement across financial services, technology and supply chain environments. Currently working at Travelex in a regulated UK financial services environment. Previously Business Analyst at Meru Info Solutions and Operations Analyst at DHL Supply Chain. 
 
 Awarded the **School Prize for Meritorious Performance** presented to the highest performing student across all MSc Management pathways at Swansea University, December 2024.
+
+Full right to work in the UK. Graduate Visa valid until January 2027. Willing to relocate anywhere in the UK.
 
 This portfolio demonstrates practical BA skills across five projects covering SQL data analysis, end-to-end business analysis, Power BI reporting, process mapping and requirements gathering.
 
@@ -20,23 +22,23 @@ This portfolio demonstrates practical BA skills across five projects covering SQ
 
 | # | Project | Skills Demonstrated | Tools Used |
 |---|---------|-------------------|------------|
-| 1 | [SQL Data Analysis — UK Road Safety](./01-SQL-Data-Analysis/) | Data analysis, SQL querying, business insights, stakeholder reporting | SQL, MySQL, Excel |
-| 2 | [End-to-End BA Project — FX Online Ordering System](./02-End-to-End-BA-Project/) | BRD, user stories, process mapping, RTM, UAT planning | Lucidchart, Excel, Word |
-| 3 | [Power BI Dashboard — Retail Sales Analysis](./03-PowerBI-Dashboard/) | Data visualisation, KPI reporting, stakeholder reporting | Power BI, Excel |
-| 4 | [Process Mapping — Travelex FX Transaction Process](./04-Process-Mapping/) | AS-IS/TO-BE mapping, gap analysis, process improvement | Lucidchart, Word |
-| 5 | [Requirements Case Study — Retail Loyalty System](./05-Requirements-Case-Study/) | Requirements elicitation, BRD writing, stakeholder analysis | Word, Excel |
+| 1 | [SQL Data Analysis : UK Road Safety](./01-SQL-Data-Analysis/) | Data analysis, SQL querying, business insights, stakeholder reporting | SQL, MySQL, Excel |
+| 2 | [End-to-End BA Project : FX Online Ordering System](./02-End-to-End-BA-Project/) | BRD, user stories, process mapping, RTM, UAT planning | Lucidchart, Excel, Word |
+| 3 | [Power BI Dashboard : Retail Sales Analysis](./03-PowerBI-Dashboard/) | Data visualisation, KPI reporting, stakeholder reporting | Power BI, Excel |
+| 4 | [Process Mapping : Travelex FX Transaction Process](./04-Process-Mapping/) | AS-IS/TO-BE mapping, gap analysis, process improvement | Lucidchart, Word |
+| 5 | [Requirements Case Study : Retail Loyalty System](./05-Requirements-Case-Study/) | Requirements elicitation, BRD writing, stakeholder analysis | Word, Excel |
 
 ---
 
 ## Core Skills
 
-**BA & Analysis:** Requirements Gathering, Process Mapping (AS-IS/TO-BE), User Stories, Acceptance Criteria, UAT, Gap Analysis, RTM
+**BA & Analysis:** Requirements Gathering, Process Mapping (AS-IS/TO-BE), User Stories, Acceptance Criteria, BDD/Gherkin, UAT, Gap Analysis
 
-**Agile & Delivery:** Scrum, Sprint Planning, Backlog Refinement, SDLC, Stakeholder Engagement, Workshop Facilitation
+**Agile & Delivery:** Scrum, Sprint Planning, Backlog Refinement, SDLC, Stakeholder Engagement, Workshop Facilitation, Change Management
 
-**Tools:** Jira, Confluence, Power BI, Tableau, Advanced Excel, SQL, Python (basic), Lucidchart
+**Data and Reporting:** Power BI, Advanced Excel, Tableau, SQL (intermediate), Data Cleaning, Regression Analysis, KPI Dashboard Design
 
-**Financial Services:** Foreign Exchange, Compliance Reporting, KYC/AML, Transaction Processing
+**Tools:** Jira, Confluence, MS Teams, Lucidchart, Python (basic), Power Automate (learning), Microsoft Power Platform PL-900 (in progress)
 
 ---
 
